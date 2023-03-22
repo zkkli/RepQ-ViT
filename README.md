@@ -25,7 +25,7 @@ This repository contains the official PyTorch implementation for the paper
   
   ```bash
   git clone https://github.com/zkkli/RepQ-ViT.git
-  cd PSAQ-ViT
+  cd RepQ-ViT
   ```
 
 ## Quantization
