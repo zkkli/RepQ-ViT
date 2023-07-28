@@ -4,7 +4,7 @@
 
 ## RepQ-ViT: Scale Reparameterization for Post-Training Quantization of Vision Transformers
 
-This repository contains the official PyTorch implementation for the paper
+This repository contains the official PyTorch implementation for the ICCV2023 paper
 *["RepQ-ViT: Scale Reparameterization for Post-Training Quantization of Vision Transformers"](https://arxiv.org/abs/2212.08254).* RepQ-ViT **decouples** the quantization and inference processes and applies **scale reparameterization** to solve the extreme distribution issues in vision transformers, including post-LayerNorm and post-Softmax activations as follows:
 
 - *Post-LayerNorm activations with severe inter-channel variation:*
