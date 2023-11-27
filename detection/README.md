@@ -63,10 +63,11 @@ Below are the experimental results of our proposed RepQ-ViT that you should get 
 We appreciate it if you would please cite the following paper if you found the implementation useful for your work:
 
 ```bash
-@article{li2022repqvit,
-  title={RepQ-ViT: Scale Reparameterization for Post-Training Quantization of Vision Transformers},
+@inproceedings{li2023repq,
+  title={Repq-vit: Scale reparameterization for post-training quantization of vision transformers},
   author={Li, Zhikai and Xiao, Junrui and Yang, Lianwei and Gu, Qingyi},
-  journal={arXiv preprint arXiv:2212.08254},
-  year={2022}
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={17227--17236},
+  year={2023}
 }
 ```
