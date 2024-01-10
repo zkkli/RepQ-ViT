@@ -20,7 +20,7 @@ This repository contains the official PyTorch implementation for the ICCV2023 pa
   </div>
 
 ## Installation
-
+- Timm version is recommended to be 0.4.12.
 - **To install RepQ-ViT** and develop locally:
   
   ```bash
